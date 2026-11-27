@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+log_fotos.txt
+diagnostico_fotos.txt
+resultado_atualizacao_fotos.txt
+produtos_cache.json
+teste_foto_*.png
+teste_funcao_*.webp
+promocoes.db
+
+static/fotos_backup_*/
+captura_abracadeira.png
+produtos_sem_foto.csv
